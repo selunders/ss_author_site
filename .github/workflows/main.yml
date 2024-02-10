@@ -35,7 +35,7 @@ jobs:
         run: bun install
 
       - name: build
-        run: bun run build
+        run: bun npm run build
         env:
           BASE_PATH: /ss_author_site/
 
