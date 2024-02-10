@@ -37,7 +37,7 @@ jobs:
       - name: build
         run: bun run build
         env:
-          BASE_PATH: /ss_author_site/
+          BASE_PATH: /
 
       - name: create .nojekyll
         run: touch .output/public/.nojekyll
