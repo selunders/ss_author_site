@@ -3,13 +3,13 @@
     "file": "assets/client-d870915a.css",
     "src": "\u0000virtual:#vinxi/handler/client.css"
   },
-  "_HttpStatusCode-69a62a3f.js": {
+  "_HttpStatusCode-a6224b11.js": {
     "dynamicImports": [
       "src/routes/[...404].jsx?pick=default&pick=$css",
       "src/routes/about.jsx?pick=default&pick=$css",
       "src/routes/index.jsx?pick=default&pick=$css"
     ],
-    "file": "assets/HttpStatusCode-69a62a3f.js"
+    "file": "assets/HttpStatusCode-a6224b11.js"
   },
   "_index-fca6b75b.js": {
     "file": "assets/index-fca6b75b.js"
@@ -19,10 +19,10 @@
     "src": "node_modules/shikiji/dist/onig.wasm"
   },
   "src/routes/[...404].jsx?pick=default&pick=$css": {
-    "file": "assets/_...404_-9bcd9586.js",
+    "file": "assets/_...404_-6568abc7.js",
     "imports": [
       "_index-fca6b75b.js",
-      "_HttpStatusCode-69a62a3f.js"
+      "_HttpStatusCode-a6224b11.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -57,9 +57,9 @@
     "css": [
       "assets/client-d870915a.css"
     ],
-    "file": "assets/client-98d37e2c.js",
+    "file": "assets/client-00a9ab65.js",
     "imports": [
-      "_HttpStatusCode-69a62a3f.js",
+      "_HttpStatusCode-a6224b11.js",
       "_index-fca6b75b.js"
     ],
     "isEntry": true,
